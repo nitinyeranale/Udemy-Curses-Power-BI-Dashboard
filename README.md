@@ -59,3 +59,20 @@ The dataset contains information on Udemy's online courses, including unique ide
 13. Time-Based Insights:
                         - Course Publishing Trend: Line chart showing the number of courses published over time.
 
+## Dashboard Interaction : 
+- <a href=" https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_1.png">Dashboars_1</a>
+- <a href=" https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_2.png">Dashboars_2</a>
+- <a href=" https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_3.png">Dashboars_3</a>
+
+## Report Insights and Analysis
+1. Popular Course Subjects: Identification of the most popular subject categories based on total subscribers.
+2. Pricing Analysis: Insights into average course prices across different subjects and course levels.
+3. Content Duration Trends: Analysis of how content length varies by subject and level.
+4. Free vs. Paid Course Preferences: Analysis of user preferences between free and paid courses.
+5. Subscriber and Review Trends: Evaluation of trends in course subscriptions and reviews, helping to identify highly engaging subjects or instructors.
+
+## Future Enhancements
+1. Course Completion Rate: Incorporate data on completion rates if available to gauge user engagement.
+2. Instructor-Level Analysis: Add instructor data to analyze performance at the instructor level.
+3. Advanced Price Analysis: Incorporate dynamic pricing changes over time to understand pricing trends.
+4. Regional Insights: If location-based data is available, add insights based on geographic trends.
