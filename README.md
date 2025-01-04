@@ -60,9 +60,9 @@ The dataset contains information on Udemy's online courses, including unique ide
                         - Course Publishing Trend: Line chart showing the number of courses published over time.
 
 ## Dashboard Interaction : 
-- <a href=" https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_1.png">Dashboars_1</a>
-- <a href=" https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_2.png">Dashboars_2</a>
-- <a href=" https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_3.png">Dashboars_3</a>
+- <a href="https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_1.png">Dashboar1</a>
+- <a href="https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_2.png">Dashboar2</a>
+- <a href="https://github.com/nitinyeranale/Udemy-Curses-Power-BI-Dashboard/blob/main/Dashboard_3.png">Dashboar3</a>
 
 ## Report Insights and Analysis
 1. Popular Course Subjects: Identification of the most popular subject categories based on total subscribers.
